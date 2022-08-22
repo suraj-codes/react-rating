@@ -63,7 +63,3 @@ Pass some config props:
 | `onChange` | _Function_ | rate: _Number_                   | Called when the selected rate is changed.                                                 |
 | `onClick`  | _Function_ | (rate: _Number_, event: _Event_) | Called when a rate is clicked.                                                            |
 | `onRate`   | _Function_ | rate: _Number_ or _undefined_    | Called when a rate is entered or left. When a rate is left it is called with `undefined`. |
-
-## License
-
-[MIT License](https://github.com/surajcodes/react-rating/blob/master/LICENSE.md)
